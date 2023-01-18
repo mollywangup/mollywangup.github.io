@@ -7,8 +7,8 @@
 
 
 # What is Android Debug Bridge (ADB)?
-官方文档: https://developer.android.com/studio/command-line/adb
-用途: 安卓debug命令行工具
+- 官方文档: https://developer.android.com/studio/command-line/adb
+- 用途: 安卓debug命令行工具
 
 # How to install ADB on macOS, Linux, and Windows
 ## macOS
@@ -17,9 +17,9 @@
 brew install android-platform-tools
 ```
 ## Windows
-手动下载安装压缩包，地址：[SDK Platform Tools release notes](https://developer.android.com/studio/releases/platform-tools#downloads)
+- 手动下载安装压缩包，地址：[SDK Platform Tools release notes](https://developer.android.com/studio/releases/platform-tools#downloads)
 
-添加到系统环境变量：https://www.cnblogs.com/handsomefa9527/articles/13030403.html
+- 添加到系统环境变量：https://www.cnblogs.com/handsomefa9527/articles/13030403.html
 
 
 ## 验证安装
